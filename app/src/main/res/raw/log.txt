@@ -1,0 +1,11 @@
+PROBLEM: Needed to generate random integers for my color
+RESOURCE: StackOverflow search "android java random int"
+SOLUTION: I found an example of a random integer generator and input it into my code.
+
+PROBLEM: Needed to change the width of my graphical lines
+RESOURCE: StackOverflow search "android java graphics line width"
+SOLUTION: I found a method that sets the width of strokes in the paint object
+
+PROBLEM: Cannot push files to github
+RESOURCE: other students and Professor Vegdahl
+SOLUTION: copy files to network linked desktop or reinstall android studio
